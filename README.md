@@ -1,6 +1,6 @@
-# ganja
+# गंज
 
-todo marathi readme
+करायचं आहे: मराठी वर्णन
 
 ## Other languages
 
