@@ -20,4 +20,5 @@
 - Turkish: [pas](https://github.com/ekimb/pas)
 - Vietnamese: [gỉ](https://github.com/Huy-Ngo/gir)
 - Japanese: [sabi (錆)](https://github.com/yuk1ty/sabi)
+- Danish: [rust?](https://github.com/LunaTheFoxgirl/rust-dk)
 
