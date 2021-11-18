@@ -27,4 +27,9 @@ Help with expanding the readme/translation dictionary will be greatly appreciate
 - Vietnamese: [gỉ](https://github.com/Huy-Ngo/gir)
 - Japanese: [sabi (錆)](https://github.com/yuk1ty/sabi)
 - Danish: [rust?](https://github.com/LunaTheFoxgirl/rust-dk)
+- Marathi: [gan̄ja](https://github.com/pranavgade20/ganja)
+- Romanian: [rugină](https://github.com/aionescu/rugina)
+- Czech: [rez](https://github.com/radekvit/rez)
+- Ukrainian: [irzha](https://github.com/brokeyourbike/irzha)
+- Bulgarian: [ryzhda](https://github.com/gavadinov/ryzhda)
 
